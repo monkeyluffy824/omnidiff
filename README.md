@@ -1,2 +1,6 @@
 # omnidiff
-A scalar-valued autograd engine, consider this like an extension of micrograd with support of more complex functions
+This project is a lightweight Python library that implements reverse-mode automatic differentiation. It is designed as a learning-oriented extension of Andrej Karpathy’s Micrograd, providing support for a broader range of mathematical operations and functions.
+
+Similar to Micrograd, this library operates exclusively on scalar values, enabling a clear and intuitive understanding of the underlying mechanics of automatic differentiation.
+
+In addition to computing gradients, you can use this library alone to construct and train neural networks, with a particular focus on binary classification tasks.
