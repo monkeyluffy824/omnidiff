@@ -8,7 +8,23 @@ Similar to Micrograd, this library operates exclusively on scalar values, enabli
 In addition to computing gradients, you can use this library alone to construct and train neural networks, with a particular focus on binary classification tasks.
 
 The gradients can be calculated for following functions:
-Add,Sub,Multiply,Division,Absolute,sin,cos,tan,tanh,power,RELU,sigmod,ln,sqrt,gamma,softsign
+- Add
+- Sub
+- Multiply
+- Division
+- Absolute
+- sin
+- cos
+- tan
+- tanh
+- power
+- RELU
+- sigmod
+- ln
+- exp
+- sqrt
+- gamma
+- softsign
 
 
 # Installation:
