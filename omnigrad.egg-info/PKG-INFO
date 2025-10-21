@@ -1,0 +1,29 @@
+Metadata-Version: 2.4
+Name: omnigrad
+Version: 0.2.3
+Summary: A scalar-valued autograd engine, consider this like an extension of micrograd with support of more complex functions
+Home-page: https://github.com/monkeyluffy824/omnidiff
+Author: monkeyluffy824
+Author-email: panangipallisaicharan@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-python
+Dynamic: summary
+
+# omnidiff
+This project is a lightweight Python library that implements reverse-mode automatic differentiation. It is designed as a learning-oriented extension of Andrej Karpathyâ€™s Micrograd, providing support for a broader range of mathematical operations and functions.
+
+ref: https://github.com/karpathy/micrograd
+
+Similar to Micrograd, this library operates exclusively on scalar values, enabling a clear and intuitive understanding of the underlying mechanics of automatic differentiation.
+
+In addition to computing gradients, you can use this library alone to construct and train neural networks, with a particular focus on binary classification tasks.

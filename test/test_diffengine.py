@@ -1,6 +1,6 @@
 import torch
 from scipy.special import gamma
-from omnidiff.diffengine import Value
+from omnigrad.diffengine import Value
 import math
 def test_sanity_check():
 

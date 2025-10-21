@@ -4,8 +4,8 @@ with open("README.md","r") as fh:
 	long_description=fh.read()
     
 setuptools.setup(
-    name="omnidiff",
-    version="0.2.1",
+    name="omnigrad",
+    version="0.2.3",
     author="monkeyluffy824",
     author_email="panangipallisaicharan@gmail.com",
     description="A scalar-valued autograd engine, consider this like an extension of micrograd with support of more complex functions",
