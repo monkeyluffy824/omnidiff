@@ -1,4 +1,4 @@
-# omnidiff
+# omnigrad
 This project is a lightweight Python library that implements reverse-mode automatic differentiation. It is designed as a learning-oriented extension of Andrej Karpathy’s Micrograd, providing support for a broader range of mathematical operations and functions.
 
 ref: https://github.com/karpathy/micrograd
@@ -11,6 +11,6 @@ The gradients can be calculated for following functions:
 Add,Sub,Multiply,Division,Absolute,sin,cos,tan,tanh,power,RELU,sigmod,ln,sqrt,gamma,softsign
 
 
-<strong>Installation:</strong>
+# Installation:
 
 `pip install omnigrad`
