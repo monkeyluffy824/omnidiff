@@ -9,3 +9,8 @@ In addition to computing gradients, you can use this library alone to construct 
 
 The gradients can be calculated for following functions:
 Add,Sub,Multiply,Division,Absolute,sin,cos,tan,tanh,power,RELU,sigmod,ln,sqrt,gamma,softsign
+
+
+<strong>Installation:</strong>
+
+`pip install omnigrad`
